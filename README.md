@@ -1,5 +1,6 @@
 
 ### Hello, I'm Maicon 🖐️
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiconk/)[![Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://maiconlucio.github.io/curriculo/index)
 
 ![Maicon's GitHub stats](https://github-readme-stats.vercel.app/api?username=maiconlucio&show_icons=true&theme=radical)
@@ -22,3 +23,8 @@
   <img align="center" alt="" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
   <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=whit">
 </div>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconlucio&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+
